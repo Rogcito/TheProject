@@ -1,4 +1,4 @@
-# TheProject
+# TheRestaurantManager
 
 Integrantes: Samuel Álvarez, Diego Tolaza, Matías Andrade. 
 
