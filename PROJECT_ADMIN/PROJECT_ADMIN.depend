@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1606698349 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\iniciosesion.c
+	"InicioSesion.h"
+
+1606609724 c:\users\rafae\desktop\tareas progra (diego)\project_admin\iniciosesion.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/CSV.h"
+
+1605678209 c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\mapa.h
+
+1590705608 c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\csv.h
+
+1606733415 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"InicioSesion.h"
+	"FunMain.h"
+
+1605678052 c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\lista.h
+	"Nodo.h"
+
+1590258891 c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\nodo.h
+
+1606694617 c:\users\rafae\desktop\tareas progra (diego)\project_admin\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/CSV.h"
+	"Platillo.h"
+	"InicioSesion.h"
+
+1606691236 c:\users\rafae\desktop\tareas progra (diego)\project_admin\platillo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606694633 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\platillo.c
+	"Platillo.h"
+
+1590705610 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1605677977 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1605678266 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1590258902 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\tda&csv\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1607083877 source:c:\users\rafae\desktop\tareas progra (diego)\project_admin\funmain.c
+	"FunMain.h"
+
+1607083877 source:c:\users\asus\desktop\proyecto\project_admin\funmain.c
+	"FunMain.h"
+
+1606694617 c:\users\asus\desktop\proyecto\project_admin\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdbool.h>
+	<time.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/CSV.h"
+	"Platillo.h"
+	"InicioSesion.h"
+
+1605678209 c:\users\asus\desktop\proyecto\project_admin\tda&csv\mapa.h
+
+1605678052 c:\users\asus\desktop\proyecto\project_admin\tda&csv\lista.h
+	"Nodo.h"
+
+1590258891 c:\users\asus\desktop\proyecto\project_admin\tda&csv\nodo.h
+
+1590705608 c:\users\asus\desktop\proyecto\project_admin\tda&csv\csv.h
+
+1606691236 c:\users\asus\desktop\proyecto\project_admin\platillo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606609724 c:\users\asus\desktop\proyecto\project_admin\iniciosesion.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/CSV.h"
+
+1606698349 source:c:\users\asus\desktop\proyecto\project_admin\iniciosesion.c
+	"InicioSesion.h"
+
+1606733415 source:c:\users\asus\desktop\proyecto\project_admin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"InicioSesion.h"
+	"FunMain.h"
+
+1606694633 source:c:\users\asus\desktop\proyecto\project_admin\platillo.c
+	"Platillo.h"
+
+1590705610 source:c:\users\asus\desktop\proyecto\project_admin\tda&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1605677977 source:c:\users\asus\desktop\proyecto\project_admin\tda&csv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1605678266 source:c:\users\asus\desktop\proyecto\project_admin\tda&csv\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1590258902 source:c:\users\asus\desktop\proyecto\project_admin\tda&csv\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
