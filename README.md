@@ -1,4 +1,4 @@
-# TheRestaurantManager
+# The Restaurant Manager
 
 Integrantes: Samuel Álvarez, Diego Tolaza, Matías Andrade. 
 
